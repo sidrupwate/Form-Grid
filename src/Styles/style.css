@@ -1,0 +1,23 @@
+.form {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 5rem;
+}
+
+.paper {
+    padding: 5rem;
+}
+
+/* .grid {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+} */
+
+/* @media (max-width: 500px) {
+    .form {
+        text-align: center;
+        margin: 4rem 0;
+        height: 10vh;
+        padding:  0 3rem 0 3rem ;
+    }
+} */
